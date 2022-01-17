@@ -1,4 +1,4 @@
-//import chalk from 'chalk';
+//import chalk from 'chalk';ff
 
 // function for generating numbers
 function rand(min, max){

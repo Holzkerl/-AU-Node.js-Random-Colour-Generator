@@ -1,4 +1,4 @@
-//import chalk from 'chalk';ff
+// import chalk from 'chalk';
 
 // function for generating numbers
 function rand(min, max) {
@@ -92,7 +92,7 @@ blue2 = blue2.toString(16);
 const number = '#' + red1 + red2 + green1 + green2 + blue1 + blue2;
 
 // output
-console.log(/*chalk.hex(number).bold(*/ `
+console.log(/* chalk.hex(number).bold( */ `
 ###############################
 ###############################
 ###############################
@@ -101,4 +101,4 @@ console.log(/*chalk.hex(number).bold(*/ `
 #####                     #####
 ###############################
 ###############################
-###############################`); //)
+###############################`); // )

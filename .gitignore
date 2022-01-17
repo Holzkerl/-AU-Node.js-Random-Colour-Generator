@@ -3,3 +3,4 @@
 *.tsbuildinfo
 *.tsbuildinfo
 /test
+*.tsbuildinfo

@@ -1,6 +1,5 @@
 /node_modules
 .eslintcache
 *.tsbuildinfo
-ask.js
-Scrap.js
-test.js
+*.tsbuildinfo
+/test
